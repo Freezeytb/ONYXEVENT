@@ -1,0 +1,6 @@
+# Monde où le shard apparaît (nom du dossier du monde)
+world: world
+# Rayon autour du spawn (en blocs)
+radius: 5000
+# Nombre d'essais max pour trouver un endroit sûr
+max-attempts: 40

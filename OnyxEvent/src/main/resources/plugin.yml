@@ -1,0 +1,14 @@
+name: OnyxEvent
+version: 1.0.0
+main: fr.onyx.event.OnyxEventPlugin
+api-version: '1.21'
+description: Event ONYX SHARD pour Onyx SMP
+commands:
+  eventonyx:
+    description: Lance l'événement Onyx Shard
+    usage: /eventonyx
+    permission: onyx.event
+permissions:
+  onyx.event:
+    description: Permet de lancer l'événement Onyx Shard
+    default: op
